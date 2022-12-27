@@ -1,4 +1,4 @@
-👋 Hi, I’m Curtis Friese (@curtisfreezin)
+👋 Hi, I’m Curtis Friesen (@curtisfreezin)
 
 I’m a software developer interested in new technologies and large data projects. I am also a graphic and web designer, focused on comfortable and intuitive user experiences.
 
